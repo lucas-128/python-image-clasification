@@ -12,11 +12,11 @@ Only the top 10 most present categories in the dataset will be considered in thi
 
 Accuracy score: 0.4283
 
-![](img\baseline-accuracy.png "Baseline accuracy")
+![](img/baseline-accuracy.png "Baseline accuracy")
 
-![](img\baseline-loss.png "Baseline loss")
+![](img/baseline-loss.png "Baseline loss")
 
-![](img\baseline-matrix.png "Baseline confusion matrix")
+![](img/baseline-matrix.png "Baseline confusion matrix")
 
 <br />
 <br />
@@ -25,8 +25,8 @@ Accuracy score: 0.4283
 
 Accuracy score: 0.8096
 
-![](img\main-accuracy.png "Main accuracy")
+![](img/main-accuracy.png "Main accuracy")
 
-![](img\main-loss.png "Main loss")
+![](img/main-loss.png "Main loss")
 
-![](img\main-matrix.png "Main confusion matrix")
+![](img/main-matrix.png "Main confusion matrix")
